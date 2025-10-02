@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OtherLanguageDLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7baa3472873513e4498570dc8005e472a7982eb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36fea6557e28749a95771bec29d6b590f862709e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OtherLanguageDLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OtherLanguageDLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
